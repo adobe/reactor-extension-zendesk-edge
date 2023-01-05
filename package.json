@@ -1,5 +1,5 @@
 {
-  "name": "zendesk-connector-edge",
+  "name": "@adobe/reactor-extension-zendesk-edge",
   "version": "1.0.0",
   "description": "Forward data to Zendesk by using the Events API.",
   "scripts": {
