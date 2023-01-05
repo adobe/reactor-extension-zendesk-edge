@@ -1,5 +1,8 @@
 # Zendesk extension for Adobe Experience Platform Event Forwarding
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/adobe/reactor-extension-zendesk-edge/node.js.yml?style=flat)](https://github.com/adobe/reactor-extension-zendesk-edge/actions)
+[![Coverage Status](https://coveralls.io/repos/github/adobe/reactor-extension-zendesk-edge/badge.svg?branch=main)](https://coveralls.io/github/adobe/reactor-extension-zendesk-edge?branch=main)
+
 Adobe Experience Platform event forwarding extension that forwards data to Zendesk by using the Events API.
 
 ## Get started
